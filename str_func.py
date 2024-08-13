@@ -14,3 +14,5 @@ def word2_glav():
   capitalized_word2 = word2.capitalize()
   return capitalized_word2
 print(word2_glav())
+
+print('Good bye')
