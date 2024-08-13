@@ -1,5 +1,5 @@
 import random
-
+  """Функция заменя строчных на заглавные буквы"""
 
 word = input('input text: ')
 
